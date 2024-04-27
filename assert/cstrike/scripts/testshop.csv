@@ -1,4 +1,4 @@
-itemid,price,currency,count,day,flag1,flag2,flag3,bmarket,efficiency
+itemid,price,currency,count,day,flag1,flag2,flag3,bmarket,efficiency,efficiency2
 2001,40000,1,1,0,2,0,0,1
 55001,5000,1,1,0,2,0,0,1
 55003,5000,1,1,0,2,0,0,1
